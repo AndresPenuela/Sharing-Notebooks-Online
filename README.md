@@ -1,2 +1,2 @@
 # Sharing-Notebooks-Online
-This Notebook present 3 options to share Jupyter Notebooks online
+This Notebook present 3 options to share interactive Jupyter Notebooks online
