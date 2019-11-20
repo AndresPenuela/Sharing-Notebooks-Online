@@ -1,4 +1,4 @@
 numpy
-ipywidgets
 plotly
-bqplot
+ipywidgets==7.2.1
+bqplot==0.11.6
